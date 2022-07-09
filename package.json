@@ -1,0 +1,24 @@
+{
+  "name": "vitest-fixture-demo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsthorup/vitest-fixture-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsthorup/vitest-fixture-demo/issues"
+  },
+  "homepage": "https://github.com/larsthorup/vitest-fixture-demo#readme",
+  "devDependencies": {
+    "vitest-fixture": "^0.1.0"
+  }
+}
