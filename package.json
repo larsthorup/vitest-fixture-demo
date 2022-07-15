@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/larsthorup/vitest-fixture-demo#readme",
   "devDependencies": {
-    "vitest-fixture": "^0.3.0"
+    "vitest-fixture": "^0.5.0"
   }
 }
